@@ -1,0 +1,44 @@
+{
+    "emaildata": [
+        {
+            "id": 1,
+            "title": "React Assessment",
+            "msg": "please find the React attachment ",
+            "flagged": false,
+            "spam": false,
+            "delete": false,
+            "read":false,
+            "date":"06/08/2021"
+        },
+        {
+            "id": 2,
+            "title": "Angular Assessment",
+            "msg": "please find the Angular attachment ",
+            "flagged": false,
+            "spam": false,
+            "delete": false,
+            "read":false,
+            "date":"06/08/2021"
+        },
+        {
+            "id": 3,
+            "title": "Dot net Assessment",
+            "msg": "please find the Dot net attachment ",
+            "flagged": false,
+            "spam": false,
+            "delete": false,
+            "read":false,
+            "date":"06/08/2021"
+        },
+        {
+            "id": 4,
+            "title": "Redux Assessment",
+            "msg": "please find the Redux attachment ",
+            "flagged": false,
+            "spam": false,
+            "delete": false,
+            "read":false,
+            "date":"06/08/2021"
+        }
+    ]
+}
